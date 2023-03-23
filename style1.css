@@ -1,0 +1,51 @@
+
+*{
+    margin: 5;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.container{
+    width: 650px;
+    color: rgb(8, 1, 15);
+  margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1{
+    font-size: 45px;
+}
+.daftarisi{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.daftarisi ol{
+    margin-left: 30px;
+}
+.content{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+  
+}
+#intro span{
+    font-size: 30px;
+    
+}
+pre{
+    font-weight: 85;
+    
+}
+#various small{
+    font-size:small;
+    font-weight: lighter;
+}
