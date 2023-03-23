@@ -1,0 +1,53 @@
+
+
+*{
+    margin: 5;
+    padding: 0;
+
+}
+
+body{
+    background-color: rgb(199, 71, 71);
+}
+
+.container{
+    width: 650px;
+    color: rgb(8, 1, 15);
+  margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    padding: 20px;
+    text-align: center;
+    font-family: poppinss;
+}
+
+.header h1{
+    font-size: 45px;
+}
+.daftarisi{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.daftarisi ol{
+    margin-left: 30px;
+}
+.content{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+    width: 58%;
+    font-family: poppinss;
+}
+#intro span{
+    font-size: 30px;
+}
+pre{
+    font-weight: 85;
+    font-family: poppinsss;
+}
+#various small{
+    font-size:small;
+    font-weight: lighter;
+}
